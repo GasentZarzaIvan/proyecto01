@@ -1,1 +1,2 @@
 Archivo de ejemplo para el proyecto 1.
+Linea nueva para usar de ejemplo en como actualizar el repositorio local
